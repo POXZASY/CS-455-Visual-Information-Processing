@@ -1,0 +1,18 @@
+﻿  CS_455_Project_1.cpp
+c:\users\larkin\documents\cs_455\cs_455_project_1\cs_455_project_1\cs_455_project_1.cpp(60): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\larkin\documents\cs_455\cs_455_project_1\cs_455_project_1\cs_455_project_1.cpp(83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\larkin\documents\cs_455\cs_455_project_1\cs_455_project_1\cs_455_project_1.cpp(86): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\larkin\documents\cs_455\cs_455_project_1\cs_455_project_1\cs_455_project_1.cpp(87): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  CS_455_Project_1.vcxproj -> C:\Users\Larkin\Documents\CS_455\CS_455_Project_1\x64\Debug\CS_455_Project_1.exe
